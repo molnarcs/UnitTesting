@@ -1,0 +1,5 @@
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\FakesTestLibrary\bin\Debug\FakesTestLibrary.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\FakesTestLibrary\bin\Debug\FakesTestLibrary.pdb
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\FakesTestLibrary\obj\Debug\FakesTestLibrary.csprojResolveAssemblyReference.cache
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\FakesTestLibrary\obj\Debug\FakesTestLibrary.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\FakesTestLibrary\obj\Debug\FakesTestLibrary.pdb

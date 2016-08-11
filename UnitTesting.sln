@@ -1,0 +1,94 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibrary", "TestLibrary\TestLibrary.csproj", "{C0F26ADB-9045-4845-AB10-A7F652663A4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{D4816D08-4559-4516-A963-2145611086B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssertTests", "AssertTests\AssertTests.csproj", "{6C9BE8F0-B244-4C87-B366-F8D23BEF18E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizeTests", "OrganizeTests\OrganizeTests.csproj", "{47EACC06-102E-4390-8A0C-3645F8A52247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataDrivenTests", "DataDrivenTests\DataDrivenTests.csproj", "{A34C97C5-3A4D-4186-988E-AAC4D96AD707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakesTests", "FakesTests\FakesTests.csproj", "{E2C235C0-93CF-4FD8-A81A-E409B4860C03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakesTestLibrary", "FakesTestLibrary\FakesTestLibrary.csproj", "{E64F93E1-BC8C-43A8-8ABA-1C70FB51802C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibrary.Tests", "TestLibrary.Tests\TestLibrary.Tests.csproj", "{863FA8A9-1FFB-438B-9900-09C46B84333B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0F26ADB-9045-4845-AB10-A7F652663A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F26ADB-9045-4845-AB10-A7F652663A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F26ADB-9045-4845-AB10-A7F652663A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F26ADB-9045-4845-AB10-A7F652663A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4816D08-4559-4516-A963-2145611086B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4816D08-4559-4516-A963-2145611086B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4816D08-4559-4516-A963-2145611086B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4816D08-4559-4516-A963-2145611086B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C9BE8F0-B244-4C87-B366-F8D23BEF18E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C9BE8F0-B244-4C87-B366-F8D23BEF18E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C9BE8F0-B244-4C87-B366-F8D23BEF18E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C9BE8F0-B244-4C87-B366-F8D23BEF18E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47EACC06-102E-4390-8A0C-3645F8A52247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47EACC06-102E-4390-8A0C-3645F8A52247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47EACC06-102E-4390-8A0C-3645F8A52247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47EACC06-102E-4390-8A0C-3645F8A52247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A34C97C5-3A4D-4186-988E-AAC4D96AD707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34C97C5-3A4D-4186-988E-AAC4D96AD707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34C97C5-3A4D-4186-988E-AAC4D96AD707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34C97C5-3A4D-4186-988E-AAC4D96AD707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C235C0-93CF-4FD8-A81A-E409B4860C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C235C0-93CF-4FD8-A81A-E409B4860C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C235C0-93CF-4FD8-A81A-E409B4860C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C235C0-93CF-4FD8-A81A-E409B4860C03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E64F93E1-BC8C-43A8-8ABA-1C70FB51802C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64F93E1-BC8C-43A8-8ABA-1C70FB51802C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64F93E1-BC8C-43A8-8ABA-1C70FB51802C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64F93E1-BC8C-43A8-8ABA-1C70FB51802C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863FA8A9-1FFB-438B-9900-09C46B84333B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863FA8A9-1FFB-438B-9900-09C46B84333B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863FA8A9-1FFB-438B-9900-09C46B84333B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863FA8A9-1FFB-438B-9900-09C46B84333B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 9
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://molnarcs.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TestLibrary\\TestLibrary.csproj
+		SccProjectName1 = TestLibrary
+		SccLocalPath1 = TestLibrary
+		SccProjectUniqueName2 = UnitTestProject1\\UnitTestProject1.csproj
+		SccProjectName2 = UnitTestProject1
+		SccLocalPath2 = UnitTestProject1
+		SccProjectUniqueName3 = AssertTests\\AssertTests.csproj
+		SccProjectName3 = AssertTests
+		SccLocalPath3 = AssertTests
+		SccProjectUniqueName4 = OrganizeTests\\OrganizeTests.csproj
+		SccProjectName4 = OrganizeTests
+		SccLocalPath4 = OrganizeTests
+		SccProjectUniqueName5 = DataDrivenTests\\DataDrivenTests.csproj
+		SccProjectName5 = DataDrivenTests
+		SccLocalPath5 = DataDrivenTests
+		SccProjectUniqueName6 = FakesTests\\FakesTests.csproj
+		SccProjectName6 = FakesTests
+		SccLocalPath6 = FakesTests
+		SccProjectUniqueName7 = FakesTestLibrary\\FakesTestLibrary.csproj
+		SccProjectName7 = FakesTestLibrary
+		SccLocalPath7 = FakesTestLibrary
+		SccProjectUniqueName8 = TestLibrary.Tests\\TestLibrary.Tests.csproj
+		SccProjectName8 = TestLibrary.Tests
+		SccLocalPath8 = TestLibrary.Tests
+	EndGlobalSection
+EndGlobal

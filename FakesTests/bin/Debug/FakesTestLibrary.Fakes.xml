@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FakesTestLibrary.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:FakesTestLibrary.Fakes.ShimDateTimeTools">
+            <summary>Shim type of FakesTestLibrary.DateTimeTools</summary>
+        </member>
+        <member name="M:FakesTestLibrary.Fakes.ShimDateTimeTools.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:FakesTestLibrary.Fakes.ShimDateTimeTools.#ctor(FakesTestLibrary.DateTimeTools)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:FakesTestLibrary.Fakes.ShimDateTimeTools.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:FakesTestLibrary.Fakes.ShimDateTimeTools.AllInstances.GetCurrentYear">
+            <summary>Sets the shim of DateTimeTools.GetCurrentYear()</summary>
+        </member>
+        <member name="M:FakesTestLibrary.Fakes.ShimDateTimeTools.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:FakesTestLibrary.Fakes.ShimDateTimeTools.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:FakesTestLibrary.Fakes.ShimDateTimeTools.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:FakesTestLibrary.Fakes.ShimDateTimeTools.Constructor">
+            <summary>Sets the shim of DateTimeTools.DateTimeTools()</summary>
+        </member>
+        <member name="P:FakesTestLibrary.Fakes.ShimDateTimeTools.GetCurrentYear">
+            <summary>Sets the shim of DateTimeTools.GetCurrentYear()</summary>
+        </member>
+        <member name="T:FakesTestLibrary.Fakes.ShimTotalPrice">
+            <summary>Shim type of FakesTestLibrary.TotalPrice</summary>
+        </member>
+        <member name="M:FakesTestLibrary.Fakes.ShimTotalPrice.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:FakesTestLibrary.Fakes.ShimTotalPrice.#ctor(FakesTestLibrary.TotalPrice)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:FakesTestLibrary.Fakes.ShimTotalPrice.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:FakesTestLibrary.Fakes.ShimTotalPrice.AllInstances.UpdateTotalPriceInt32">
+            <summary>Sets the shim of TotalPrice.UpdateTotalPrice(Int32 value)</summary>
+        </member>
+        <member name="M:FakesTestLibrary.Fakes.ShimTotalPrice.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:FakesTestLibrary.Fakes.ShimTotalPrice.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:FakesTestLibrary.Fakes.ShimTotalPrice.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:FakesTestLibrary.Fakes.ShimTotalPrice.Bind(FakesTestLibrary.ITotalPrice)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:FakesTestLibrary.Fakes.ShimTotalPrice.ConstructorIRepository">
+            <summary>Sets the shim of TotalPrice.TotalPrice(IRepository repository)</summary>
+        </member>
+        <member name="P:FakesTestLibrary.Fakes.ShimTotalPrice.UpdateTotalPriceInt32">
+            <summary>Sets the shim of TotalPrice.UpdateTotalPrice(Int32 value)</summary>
+        </member>
+        <member name="T:FakesTestLibrary.Fakes.StubDateTimeTools">
+            <summary>Stub type of FakesTestLibrary.DateTimeTools</summary>
+        </member>
+        <member name="M:FakesTestLibrary.Fakes.StubDateTimeTools.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:FakesTestLibrary.Fakes.StubDateTimeTools.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:FakesTestLibrary.Fakes.StubDateTimeTools.InitializeStub">
+            <summary>Initializes a new instance of type StubDateTimeTools</summary>
+        </member>
+        <member name="P:FakesTestLibrary.Fakes.StubDateTimeTools.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:FakesTestLibrary.Fakes.StubDateTimeTools.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:FakesTestLibrary.Fakes.StubIRepository">
+            <summary>Stub type of FakesTestLibrary.IRepository</summary>
+        </member>
+        <member name="M:FakesTestLibrary.Fakes.StubIRepository.#ctor">
+            <summary>Initializes a new instance of type StubIRepository</summary>
+        </member>
+        <member name="M:FakesTestLibrary.Fakes.StubIRepository.FakesTestLibrary#IRepository#GetTotalPrice">
+            <summary>Sets the stub of IRepository.GetTotalPrice()</summary>
+        </member>
+        <member name="M:FakesTestLibrary.Fakes.StubIRepository.FakesTestLibrary#IRepository#UpdateTotalPrice(System.Int32)">
+            <summary>Sets the stub of IRepository.UpdateTotalPrice(Int32 value)</summary>
+        </member>
+        <member name="F:FakesTestLibrary.Fakes.StubIRepository.GetTotalPrice">
+            <summary>Sets the stub of IRepository.GetTotalPrice()</summary>
+        </member>
+        <member name="F:FakesTestLibrary.Fakes.StubIRepository.UpdateTotalPriceInt32">
+            <summary>Sets the stub of IRepository.UpdateTotalPrice(Int32 value)</summary>
+        </member>
+        <member name="T:FakesTestLibrary.Fakes.StubITotalPrice">
+            <summary>Stub type of FakesTestLibrary.ITotalPrice</summary>
+        </member>
+        <member name="M:FakesTestLibrary.Fakes.StubITotalPrice.#ctor">
+            <summary>Initializes a new instance of type StubITotalPrice</summary>
+        </member>
+        <member name="M:FakesTestLibrary.Fakes.StubITotalPrice.FakesTestLibrary#ITotalPrice#UpdateTotalPrice(System.Int32)">
+            <summary>Sets the stub of ITotalPrice.UpdateTotalPrice(Int32 value)</summary>
+        </member>
+        <member name="F:FakesTestLibrary.Fakes.StubITotalPrice.UpdateTotalPriceInt32">
+            <summary>Sets the stub of ITotalPrice.UpdateTotalPrice(Int32 value)</summary>
+        </member>
+        <member name="T:FakesTestLibrary.Fakes.StubTotalPrice">
+            <summary>Stub type of FakesTestLibrary.TotalPrice</summary>
+        </member>
+        <member name="M:FakesTestLibrary.Fakes.StubTotalPrice.#ctor(FakesTestLibrary.IRepository)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:FakesTestLibrary.Fakes.StubTotalPrice.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:FakesTestLibrary.Fakes.StubTotalPrice.InitializeStub">
+            <summary>Initializes a new instance of type StubTotalPrice</summary>
+        </member>
+        <member name="P:FakesTestLibrary.Fakes.StubTotalPrice.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:FakesTestLibrary.Fakes.StubTotalPrice.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

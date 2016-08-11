@@ -1,0 +1,7 @@
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\OrganizeTests\bin\Debug\OrganizeTests.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\OrganizeTests\bin\Debug\OrganizeTests.pdb
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\OrganizeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\OrganizeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\OrganizeTests\obj\Debug\OrganizeTests.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\OrganizeTests\obj\Debug\OrganizeTests.pdb
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\OrganizeTests\obj\Debug\OrganizeTests.csprojResolveAssemblyReference.cache

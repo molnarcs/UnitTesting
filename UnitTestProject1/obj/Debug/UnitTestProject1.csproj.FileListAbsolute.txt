@@ -1,0 +1,9 @@
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\UnitTestProject1\bin\Debug\TestLibrary.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\UnitTestProject1\bin\Debug\TestLibrary.pdb
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

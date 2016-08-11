@@ -1,0 +1,13 @@
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\TestLibrary.Tests\bin\Debug\TestLibrary.Tests.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\TestLibrary.Tests\bin\Debug\TestLibrary.Tests.pdb
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\TestLibrary.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\TestLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\TestLibrary.Tests\bin\Debug\TestLibrary.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\TestLibrary.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\TestLibrary.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\TestLibrary.Tests\bin\Debug\TestLibrary.pdb
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\TestLibrary.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\TestLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\TestLibrary.Tests\obj\Debug\TestLibrary.Tests.csprojResolveAssemblyReference.cache
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\TestLibrary.Tests\obj\Debug\TestLibrary.Tests.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\TestLibrary.Tests\obj\Debug\TestLibrary.Tests.pdb

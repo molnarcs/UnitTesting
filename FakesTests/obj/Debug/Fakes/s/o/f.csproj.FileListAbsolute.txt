@@ -1,0 +1,11 @@
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\FakesTests\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.xml
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\FakesTests\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\FakesTests\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.pdb
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\FakesTests\obj\Debug\Fakes\s\b\FakesTestLibrary.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\FakesTests\obj\Debug\Fakes\s\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\FakesTests\obj\Debug\Fakes\s\b\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\FakesTests\obj\Debug\Fakes\s\b\FakesTestLibrary.pdb
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\FakesTests\obj\Debug\Fakes\s\b\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\FakesTests\obj\Debug\Fakes\s\o\f.csprojResolveAssemblyReference.cache
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\FakesTests\obj\Debug\Fakes\s\o\System.4.0.0.0.Fakes.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\FakesTests\obj\Debug\Fakes\s\o\System.4.0.0.0.Fakes.pdb

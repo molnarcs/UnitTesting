@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="AssertTests.StringAssertTests.ContainsTest" /><Add Test="AssertTests.StringAssertTests.MatchesTest" /><Add Test="AssertTests.StringAssertTests.EndsWithTest" /><Add Test="AssertTests.StringAssertTests.Test" /><Add Test="AssertTests.StringAssertTests.StartsWithTest" /><Add Test="AssertTests.StringAssertTests.DoesNotMatchTest" /></Playlist>

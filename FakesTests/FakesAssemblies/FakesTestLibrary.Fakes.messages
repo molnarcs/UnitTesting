@@ -1,0 +1,2 @@
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\FakesTests\Fakes\FakesTestLibrary.fakes : warning : Cannot generate shim for FakesTestLibrary.IRepository: type is an interface.
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\FakesTests\Fakes\FakesTestLibrary.fakes : warning : Cannot generate shim for FakesTestLibrary.ITotalPrice: type is an interface.

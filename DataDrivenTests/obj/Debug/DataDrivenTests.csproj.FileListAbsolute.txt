@@ -1,0 +1,10 @@
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\DataDrivenTests\bin\Debug\DataDrivenTests.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\DataDrivenTests\bin\Debug\DataDrivenTests.pdb
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\DataDrivenTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\DataDrivenTests\bin\Debug\TestLibrary.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\DataDrivenTests\bin\Debug\TestLibrary.pdb
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\DataDrivenTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\DataDrivenTests\obj\Debug\DataDrivenTests.csprojResolveAssemblyReference.cache
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\DataDrivenTests\obj\Debug\DataDrivenTests.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\DataDrivenTests\obj\Debug\DataDrivenTests.pdb
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\DataDrivenTests\bin\Debug\Data.csv

@@ -1,0 +1,7 @@
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\AssertTests\bin\Debug\AssertTests.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\AssertTests\bin\Debug\AssertTests.pdb
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\AssertTests\bin\Debug\TestLibrary.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\AssertTests\bin\Debug\TestLibrary.pdb
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\AssertTests\obj\Debug\AssertTests.csprojResolveAssemblyReference.cache
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\AssertTests\obj\Debug\AssertTests.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\AssertTests\obj\Debug\AssertTests.pdb

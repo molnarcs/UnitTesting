@@ -1,0 +1,5 @@
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\TestLibrary\bin\Debug\TestLibrary.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\TestLibrary\bin\Debug\TestLibrary.pdb
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\TestLibrary\obj\Debug\TestLibrary.csprojResolveAssemblyReference.cache
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\TestLibrary\obj\Debug\TestLibrary.dll
+D:\Dev\TFS\molnarcs\TestEducation\Basics\UnitTesting\TestLibrary\obj\Debug\TestLibrary.pdb
